@@ -28,15 +28,18 @@ A step by step series of examples that tell you how to get a development env run
 ```
 ## Training the model
 
+```
 1.Load traing dataset from traing_data folder(training data is in form of dictionary)
 2.Compile the model with adam optimizer
 3.Fit the model with traning dataset
+```
 
 
 ## Running the tests
-
+```
 1.Load the model from adam file from folder adam model
 2.Use greedy search to generate the caption for a image
+```
 
 
 ## Authors
